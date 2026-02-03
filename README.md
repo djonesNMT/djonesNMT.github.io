@@ -1,2 +1,2 @@
 # djonesNMT.github.io
-Research website
+Research website, created with a Claude Code experiment
